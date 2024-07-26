@@ -1,0 +1,39 @@
+#A {
+    background-color: red;
+}
+
+#B {
+    background-color: yellow;
+}
+
+#C {
+    background-color: rgb(213, 75, 75);
+}
+
+.inline {
+    display: inline;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.none {
+    display: none;
+}
+
+#f-left {
+    float: left;
+}
+
+#f-right { 
+    float : right;
+}
+
+#f-c {
+    background-color: aquamarine;
+}
+
+footer {
+    clear: right;
+}
